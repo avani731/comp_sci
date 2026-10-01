@@ -1,0 +1,6 @@
+L = input('enter the length of the rectangle:')
+lengthint = int( L )
+W = input ('enter the width of the rectangle:')
+widthint = int( W )
+total=(2*lengthint + 2*widthint)
+print('the perimeter of the rectangle is:',total)

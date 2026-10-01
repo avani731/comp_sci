@@ -1,0 +1,6 @@
+B = input('enter the ball speed:')
+ballint = int( B)
+C = input('enter the club speed:')
+clubint = int(C)
+total=(ballint/clubint)
+print('the smash factor is',total)
