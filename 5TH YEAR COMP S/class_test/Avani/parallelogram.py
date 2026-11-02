@@ -1,0 +1,6 @@
+A=int(input('enter the lenght of the parallelogram:'))
+B=int(input('enter the width of the parallelogram:'))
+C=int(input('enter the height of the parallelogram:'))
+area=(A*B)
+perimeter=(2*A+2*B)
+print('the area and perimeter of the parallelogram',area,perimeter)
