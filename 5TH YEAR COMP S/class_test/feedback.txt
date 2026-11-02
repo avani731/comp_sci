@@ -1,1 +1,11 @@
+Make sure you add your name and the question number as a comment at the top of each file.
+Q4 - average.py - To get the average you need to add (+) the numbers together and then divide(/) this value by 5
+Q1 - INTEGER.py - very good, for greater than or equal to you can use >=
+Q2 - odd_even.py - very good
+Q5 - parallelogram.py - your code is good but the formula is incorrect
 
+Q6 - WDD1 and WDD2 - could you do these again
+
+Q7 - AB could you do this again
+
+Q3 - You need to learn off the answer to this question. It is in the 'Operators in Python - Housekeeping' pdf
